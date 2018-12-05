@@ -43,5 +43,6 @@
     </dependencyManagement>
     <modules>
         <module>kayle-eureka</module>
+        <module>kayle-zuul</module>
     </modules>
 </project>
